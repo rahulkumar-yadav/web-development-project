@@ -6,7 +6,7 @@ Responsive scroll behavior replication seamlessly on desktop and mobile interfac
 
 ## Live Demo
 
-You can view a live demo of the project [here]().
+You can view a live demo of the project [here](https://websitedevelopment-project.netlify.app/).
 
 ## Project Implementation
 
