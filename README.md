@@ -40,13 +40,13 @@ To run this project locally, follow these steps:
 1. Clone the repository to your local machine:
 
 ```
-git clone https://github.com/rahulkumar-yadav/website-development-project.git
+git clone https://github.com/rahulkumar-yadav/web-development-project.git
 ```
 
 2. Navigate to the project directory:
 
 ```
-cd website-development-project
+cd web-development-project
 ```
 
 3. Install dependencies:
