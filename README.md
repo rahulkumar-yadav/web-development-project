@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-Responsive scroll behavior replication seamlessly on desktop and mobile interfaces. Utilize HTML, CSS, JavaScript, and jQuery. Enhance scrolling effects with GSAP, ScrollTrigger, and ScrollMagic, and implement sliders using OWL Carousel.
+Responsive scroll behavior replication seamlessly on desktop and mobile interfaces. Utilized HTML, CSS, JavaScript, and jQuery. Enhance scrolling effects with GSAP, ScrollTrigger, and ScrollMagic, and implement sliders using OWL Carousel.
 
 ## Live Demo
 
